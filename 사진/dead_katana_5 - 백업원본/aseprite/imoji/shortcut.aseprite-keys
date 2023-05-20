@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<keyboard version="1">
+    <commands>
+        <key command="OpenFile" shortcut="Ctrl+O" removed="true" />
+        <key command="OpenFile" shortcut="H" />
+        <key command="Clear" shortcut="Del" removed="true" />
+        <key command="Clear" shortcut="Backspace" />
+        <key command="Clear" shortcut="X" />
+        <key command="Fill" shortcut="F" removed="true" />
+        <key command="Stroke" shortcut="S" removed="true" />
+        <key command="PasteText" shortcut="T" removed="true" />
+        <key command="KeyboardShortcuts" shortcut="Ctrl+Alt+Shift+K" removed="true" />
+        <key command="KeyboardShortcuts" shortcut="1" />
+        <key command="CanvasSize" shortcut="C" removed="true" />
+        <key command="CanvasSize" shortcut="2" />
+        <key command="LayerVisibility" shortcut="Shift+X" removed="true" />
+        <key command="LayerVisibility" shortcut="Z" />
+        <key command="NewLayer" shortcut="Shift+N" removed="true" />
+        <key command="NewLayer" shortcut="Space+G" />
+        <key command="NewLayer" shortcut="Ctrl+J" removed="true">
+            <param name="viaCopy" value="true" />
+        </key>
+        <key command="GotoPreviousLayer" context="Normal" shortcut="Down" removed="true" />
+        <key command="GotoPreviousLayer" context="Normal" shortcut="Space+R" />
+        <key command="GotoNextLayer" context="Normal" shortcut="Up" removed="true" />
+        <key command="GotoNextLayer" context="Normal" shortcut="Space+W" />
+        <key command="NewFrame" shortcut="Alt+N" removed="true" />
+        <key command="NewFrame" shortcut="N" />
+        <key command="NewFrame" shortcut="Alt+D" removed="true">
+            <param name="content" value="celcopies" />
+        </key>
+        <key command="NewFrame" shortcut="G">
+            <param name="content" value="celcopies" />
+        </key>
+        <key command="GotoNextFrame" context="Normal" shortcut="Right" removed="true" />
+        <key command="GotoNextFrame" context="Normal" shortcut="R" />
+        <key command="PlayAnimation" shortcut="Enter" removed="true" />
+        <key command="PlayAnimation" shortcut="Enter Pad" removed="true" />
+        <key command="PlayAnimation" shortcut="Space+D" />
+        <key command="ShowOnionSkin" shortcut="F3" removed="true" />
+        <key command="ShowOnionSkin" shortcut="Space+Z" removed="true" />
+        <key command="ShowOnionSkin" shortcut="O" />
+        <key command="PaletteEditor" shortcut="A" removed="true" />
+        <key command="GotoNextTab" shortcut="Ctrl+Tab" removed="true" />
+        <key command="GotoNextTab" shortcut="Ctrl+PgDn" removed="true" />
+        <key command="GotoPreviousTab" shortcut="Ctrl+Shift+Tab" removed="true" />
+        <key command="GotoPreviousTab" shortcut="Ctrl+PgUp" />
+        <key command="SwitchColors" shortcut="X" removed="true" />
+        <key command="Zoom" shortcut="1" removed="true">
+            <param name="percentage" value="100" />
+        </key>
+        <key command="Zoom" shortcut="2" removed="true">
+            <param name="percentage" value="200" />
+        </key>
+        <key command="Zoom" shortcut="3" removed="true">
+            <param name="percentage" value="400" />
+        </key>
+        <key command="GotoPreviousFrame" shortcut="W" />
+        <key command="GotoNextFrame" shortcut="R" />
+        <key command="SpriteSize" shortcut="3" />
+    </commands>
+    <tools>
+        <key tool="rectangular_marquee" shortcut="M" removed="true" />
+        <key tool="rectangular_marquee" shortcut="S" />
+        <key tool="elliptical_marquee" shortcut="Shift+M" />
+        <key tool="lasso" shortcut="Q" removed="true" />
+        <key tool="lasso" shortcut="Space+S" />
+        <key tool="polygonal_lasso" shortcut="Shift+Q" removed="true" />
+        <key tool="magic_wand" shortcut="W" removed="true" />
+        <key tool="pencil" shortcut="B" removed="true" />
+        <key tool="pencil" shortcut="D" />
+        <key tool="eraser" shortcut="E" />
+        <key tool="eyedropper" shortcut="I" removed="true" />
+        <key tool="eyedropper" shortcut="F" />
+        <key tool="hand" shortcut="H" removed="true" />
+        <key tool="move" shortcut="V" removed="true" />
+        <key tool="zoom" shortcut="Z" removed="true" />
+        <key tool="paint_bucket" shortcut="G" removed="true" />
+        <key tool="paint_bucket" shortcut="A" />
+        <key tool="line" shortcut="L" removed="true" />
+        <key tool="line" shortcut="T" />
+        <key tool="rectangle" shortcut="U" removed="true" />
+        <key tool="rectangle" shortcut="Q" />
+        <key tool="ellipse" shortcut="Shift+U" removed="true" />
+        <key tool="ellipse" shortcut="C" />
+        <key tool="contour" shortcut="D" removed="true" />
+        <key tool="blur" shortcut="R" removed="true" />
+        <key tool="jumble" shortcut="R" removed="true" />
+    </tools>
+    <quicktools>
+        <key tool="hand" shortcut="Space" removed="true" />
+    </quicktools>
+    <actions />
+    <wheel />
+</keyboard>
